@@ -1,4 +1,4 @@
-# Módulo Dispmovel Module
+# Módulo Dispmovel - Declaração de Equipamentos Digitais Particulares
 
 ## 📋 Descrição
 Módulo customizado do Drupal 10 para geração da **Declaração de Responsabilidade de Uso de Dispositivo Móvel**.
