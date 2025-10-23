@@ -1,0 +1,15 @@
+dispmovel.form:
+  path: '/disp_movel'
+  defaults:
+    _form: '\Drupal\dispmovel_module\Form\DispMovelForm'
+    _title: 'Declaração de Dispositivo Móvel'
+  requirements:
+    _permission: 'access content'
+
+dispmovel.gerar:
+  path: '/dispmovel/gerar'
+  defaults:
+    _controller: '\Drupal\dispmovel_module\Controller\DispmovelController::gerarDeclaracao'
+    _title: 'Gerar Declaração'
+  requirements:
+    _permission: 'access content'

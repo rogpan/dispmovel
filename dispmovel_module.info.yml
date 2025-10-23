@@ -1,0 +1,5 @@
+name: 'Dispositivo Móvel - Declaração'
+type: module
+description: 'Formulário e geração de declaração de responsabilidade de uso de dispositivo móvel.'
+core_version_requirement: ^10
+package: 'Custom'
